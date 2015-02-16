@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="32001">
+	    <setting type="lsep" label="32101" />
+	    <setting id="token" type="text" label="32102" default="" />
+	    <setting type="lsep" label="32301" />
+	    <setting id="facebook" type="bool" label="32302" default="true" />
+	    <setting id="twitter" type="bool" label="32303" default="true" />
+	    <setting type="lsep" label="32401" />
+	    <setting id="notifications" type="bool" label="32402" default="true" />
+	 </category>
+     <category label="33001">
+	    <setting type="lsep" label="33101" />
+	    <setting id="auto_sync" type="bool" label="33102" default="true" />
+        <setting id="startup_delay" type="enum" values="0|1|2|3|4|5" label="33103" default="1" enable="eq(-1,true)" />
+        <setting id="run_during_playback" type="bool" label="33104" default="false" enable="eq(-2,true)" />
+        <setting id="run_on_idle" type="bool" label="33105" default="false" enable="eq(-3,true)" />
+        <setting id="advanced_timer" type="bool" label="33106" default="false" enable="eq(-4,true)"/>
+        <setting id="timer" type="labelenum" label="33107" values="1|2|4|6|12|24" enable="eq(-5,true) + !eq(-1,true)" />
+	    <setting id="advanced" type="text" label="33108" default="0 * * * *" enable="eq(-6,true) + eq(-2,true)" />
+        <setting id="last_run" type="text" label="last_run" default="0" visible="false" />
+     </category>
+</settings>

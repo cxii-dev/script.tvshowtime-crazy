@@ -1,0 +1,126 @@
+# XBMC Media Center language file
+# Addon Name: TVShow Time
+# Addon id: script.tvshowtime
+# Addon version: 1.0.7
+# Addon Provider: CXII
+msgid ""
+msgstr ""
+"Project-Id-Version: XBMC-Addons\n"
+"Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
+"POT-Creation-Date: 2015-01-22 17:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgctxt "Addon Summary"
+msgid "TVShow Time"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "Automatically set episodes as watched on TVShowTime.com"
+msgstr ""
+
+msgctxt "#32001"
+msgid "General"
+msgstr ""
+
+msgctxt "#32101"
+msgid "Get token here: bit.ly/TVShowTime"
+msgstr ""
+
+msgctxt "#32102"
+msgid "Token"
+msgstr ""
+
+msgctxt "#32301"
+msgid "Social networks"
+msgstr ""
+
+msgctxt "#32302"
+msgid "Publish on Facebook"
+msgstr ""
+
+msgctxt "#32303"
+msgid "Publish on Twitter"
+msgstr ""
+
+msgctxt "#32401"
+msgid "Notifications"
+msgstr ""
+
+msgctxt "#32402"
+msgid "Show notifications"
+msgstr ""
+
+msgctxt "#33001"
+msgid "Synchronisation"
+msgstr ""
+
+msgctxt "#33101"
+msgid "Settings"
+msgstr ""
+
+msgctxt "#33102"
+msgid "Activate sync (TVST -> Kodi)"
+msgstr ""
+
+msgctxt "#33103"
+msgid "Startup Delay (minutes)"
+msgstr ""
+
+msgctxt "#33104"
+msgid "Run during playback"
+msgstr ""
+
+msgctxt "#33105"
+msgid "Only run when idle"
+msgstr ""
+
+msgctxt "#33106"
+msgid "Used Advanced Timer"
+msgstr ""
+
+msgctxt "#33107"
+msgid "Amount of time between updates (hours)"
+msgstr ""
+
+msgctxt "#33108"
+msgid "Cron Expression"
+msgstr ""
+
+msgctxt "#32901"
+msgid "Please set your token"
+msgstr ""
+
+msgctxt "#32902"
+msgid "Welcome"
+msgstr ""
+
+msgctxt "#32903"
+msgid "Error - Please check your authentication informations"
+msgstr ""
+
+msgctxt "#32904"
+msgid "Watching"
+msgstr ""
+
+msgctxt "#32905"
+msgid "Episode not found"
+msgstr ""
+
+msgctxt "#32906"
+msgid "Watched"
+msgstr ""
+
+msgctxt "#32907"
+msgid "Error 325324"
+msgstr ""
+
+msgctxt "#32908"
+msgid "Unwatched"
+msgstr ""
